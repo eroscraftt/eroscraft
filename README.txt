@@ -1,1 +1,1 @@
-GitHub deposundaki index.html dosyasini bu ZIP icindeki index.html ile degistirin. Dolap: https://link.dolap.com/7uyfnv
+ErosCraft Showroom - 4 yeni ürün eklendi. index.html ve images klasörünü birlikte GitHub deposuna yükleyin. Sipariş butonları Dolap mağaza ana sayfasına yönlendirir.
