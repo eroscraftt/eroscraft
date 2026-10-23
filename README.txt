@@ -1,1 +1,1 @@
-ErosCraft Showroom - Ege magnet görselleri eklendi. index.html ve images klasörünü birlikte GitHub deponuzun kök dizinine yükleyin.
+GitHub deposundaki index.html dosyasini bu ZIP icindeki index.html ile degistirin. Dolap: https://link.dolap.com/7uyfnv
